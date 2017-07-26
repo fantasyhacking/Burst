@@ -1,0 +1,3 @@
+package CPPlugin;
+
+1;
