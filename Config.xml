@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+	<mysql>
+		<host>127.0.0.1</host>
+		<username>root</username>
+		<password>1337h4x0r</password>
+		<database>burst</database>
+		<tables>
+			<users>penguins</users>
+			<mail>postcards</mail>
+			<pets>puffles</pets>
+			<home>igloos</home>
+			<epf>agents</epf>
+			<stamps>stickers</stamps>
+		</tables>
+	</mysql>
+	<server>
+		<host>0</host>
+		<port>6112</port>
+		<debug>1</debug>
+	</server>
+</config>
